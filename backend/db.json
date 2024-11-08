@@ -1,0 +1,25 @@
+{
+  "course": [
+    {
+      "id": "8dd9",
+      "title": "SERVELETS",
+      "trainer": "SAISH",
+      "description": "GOOD TRAINER",
+      "createdAt": "2024-07-16"
+    },
+    {
+      "id": "106a",
+      "title": "JAVASCRIPT",
+      "trainer": "darshan",
+      "description": "good",
+      "createdAt": "2024-10-30"
+    },
+    {
+      "id": "c8e6",
+      "title": "java",
+      "trainer": "darshan",
+      "description": "wefgh",
+      "createdAt": "2024-10-28"
+    }
+  ]
+}
